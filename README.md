@@ -37,3 +37,5 @@ Este programa calcula el área de un triángulo dados sus tres lados utilizando 
 Cada ejercicio tiene su propio archivo de código fuente en lenguaje C. Puedes abrir y modificar estos archivos según sea necesario para practicar y comprender los conceptos.
 
 ¡Diviértete programando!
+
+@Gr6systems
